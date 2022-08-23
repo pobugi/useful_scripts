@@ -1,0 +1,1 @@
+pg_dump dbname -U username -h host --table=tablename --data-only --column-inserts > result.sql 
